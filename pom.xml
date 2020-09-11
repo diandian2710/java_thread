@@ -9,8 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>lesson01</module>
-        <module>lesson02</module>
+        <module>ThreadCreation</module>
+        <module>ThreadState</module>
+        <module>Lambda</module>
+        <module>Synchronized</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
